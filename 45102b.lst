@@ -1,34 +1,31 @@
-47.243.26.83:443#HK-Hong Kong
-8.213.208.51:443#TH-Bangkok
-8.219.77.141:443#SG-Singapore
+8.209.119.190:443#DE-Frankfurt am Main
+8.219.117.198:443#SG-Singapore
+47.74.2.180:443#JP-Tokyo
+8.211.2.2:443#DE-Frankfurt am Main
+8.211.2.2:8443#DE-Frankfurt am Main
+47.250.152.108:443#MY-Kuala Lumpur
+8.209.216.11:443#JP-Tokyo
+47.88.15.127:443#US-San Jose
+8.222.184.198:443#SG-Singapore
 47.245.142.16:443#DE-Frankfurt am Main
 47.245.142.16:8443#DE-Frankfurt am Main
-8.222.169.222:443#SG-Singapore
-8.219.117.198:443#SG-Singapore
-8.222.180.86:443#SG-Singapore
-8.209.119.190:443#DE-Frankfurt am Main
-8.222.162.45:443#SG-Singapore
+47.243.26.83:443#HK-Hong Kong
+8.210.34.45:443#HK-Hong Kong
+8.219.111.147:443#SG-Singapore
+8.210.92.27:8443#HK-Hong Kong
 8.222.179.231:443#SG-Singapore
 8.211.195.135:443#GB-London
 8.211.195.135:8443#GB-London
-47.253.130.14:443#US-Reston
-47.89.149.186:443#US-Reston
-8.208.11.119:443#GB-London
-47.243.70.186:443#HK-Hong Kong
-47.74.155.26:443#SG-Singapore
-8.211.2.2:443#DE-Frankfurt am Main
-8.211.2.2:8443#DE-Frankfurt am Main
-8.222.184.198:443#SG-Singapore
 8.212.41.98:443#HK-Hong Kong
-8.210.34.45:443#暂无
-8.210.34.45:2053#暂无
-47.74.2.180:443#暂无
-47.74.2.180:2053#暂无
-8.218.228.152:443#HK-Hong Kong
-8.222.130.231:443#SG-Singapore
-8.209.216.11:443#JP-Tokyo
-8.209.216.11:2053#JP-Tokyo
-47.250.152.108:443#MY-Kuala Lumpur
-8.219.111.147:443#SG-Singapore
-8.217.147.230:443#HK-Hong Kong
+8.213.208.51:443#TH-Bangkok
 8.222.145.43:443#SG-Singapore
+8.208.11.119:443#GB-London
+47.253.130.14:443#US-Reston
+8.218.228.152:443#HK-Hong Kong
+8.212.8.81:443#暂无
+8.222.162.45:443#SG-Singapore
+47.253.105.131:443#US-Reston
+8.222.180.86:443#SG-Singapore
+47.243.70.186:443#HK-Hong Kong
+47.89.149.186:443#US-Reston
+8.222.169.222:443#SG-Singapore
